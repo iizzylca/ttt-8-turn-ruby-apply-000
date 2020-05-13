@@ -16,3 +16,5 @@ turn(board)
 turn(board)
 turn(board)
 turn(board)
+
+puts "Please enter 1-9:"
